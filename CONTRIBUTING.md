@@ -8,15 +8,15 @@ Read Statements properly before starting contributing to this repository:
 git clone https://github.com/<your username>/URLShortner.git
 cd URLShortner
 ```
-5. Create a new Branch, you can give any relevant name to that branch. you can use commant in Terminal:
+5. __Create a new Branch__, you can give any relevant name to that branch. you can use commant in Terminal:
 ```bash
 git checkout -b <branch_name>
 ```
-6. To test Brach created Sucessfully. Type commnad in Terminal, It will show the current branch name:
+6. __To test Brach created Sucessfully__. Type commnad in Terminal, It will show the current branch name:
 ```
 git status
 ```
-7. Now Start your work and `commit` the changes and `push` to `Remote Repository.
-8. Finally you are sure with your work then make a Pull Request.
+7. Now Start your work and `commit` the changes and `push` to `Remote Repository`.
+8. Finally you are sure with your work then make a `Pull Request`.
 9. Wait for Reviewer to Review your work and it may require to make changes to files.
-10. Pull Request is accepted then, Enjoy!!!
+10. `Pull Request` is accepted then, Enjoy!!!
